@@ -1,4 +1,4 @@
-# Why-foreign-supermarkets-withdraw-from-the-Chinese-market-
+# Why foreign supermarkets withdraw from the Chinese market?
 COMM7330 Basic Programming Group Project
 ## Group Name: Hello World
 ## All the group members:
